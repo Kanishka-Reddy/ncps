@@ -24,7 +24,7 @@ setup(
     author="Mathias Lechner",
     author_email="mlech26l@gmail.com",
     license="Apache License 2.0",
-    # tensorflow and torch isn't a dependency because it would force the
+    # tensorflow and pytorch isn't a dependency because it would force the
     # download of the gpu version or the cpu version.
     # users should install it manually.
     install_requires=[

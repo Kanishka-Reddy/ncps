@@ -24,7 +24,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from tqdm import tqdm
 
-from ncps.torch import CfC
+from ncps.pytorch import CfC
 from ncps.datasets.torch import AtariCloningDataset
 
 

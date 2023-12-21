@@ -17,7 +17,7 @@ import sys
 import time
 import pytest
 import torch
-from ncps.torch import CfC, LTCCell, LTC
+from ncps.pytorch import CfC, LTCCell, LTC
 import ncps
 
 
